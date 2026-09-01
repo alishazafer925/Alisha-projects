@@ -46,6 +46,11 @@ The dashboard helps users identify:
 -Locations with more IT jobs
 -Overall trends in the IT job market
 
+# Dashboard Preview
+![IT Job Market Dashboard]
+(Screenshot%202026-07-08%2020632.png)
+
+
 # Author
 **Alisha jafer**
 Computer Science & Engineering
