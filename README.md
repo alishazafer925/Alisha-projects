@@ -48,8 +48,7 @@ The dashboard helps users identify:
 
 # Dashboard Preview
 ![IT Job Market Dashboard]
-(Screenshot%202026-07-08%2020632.png)
-
+Screenshot 2026-07-08 202632.png
 
 # Author
 **Alisha jafer**
