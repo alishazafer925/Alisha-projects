@@ -47,7 +47,7 @@ The dashboard helps users identify:
 -Overall trends in the IT job market
 
 # Dashboard Preview
-![IT Job Market Dashboard]
+![IT Job Market Dashboard.pbix]
 Screenshot 2026-07-08 202632.png
 
 # Author
